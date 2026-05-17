@@ -1,0 +1,24 @@
+
+Machine Installation Guide
+
+Pre-Installation Requirements:
+- Dedicated 15-amp electrical socket within 1 metre of placement.
+- Flat, stable surface capable of supporting 45kg.
+- Minimum 30cm clearance on all sides for ventilation.
+- Access to clean water supply within 2 metres.
+
+Installation Steps:
+1. Unbox machine and remove all protective packaging.
+2. Place machine on designated surface.
+3. Connect water supply line to rear inlet valve.
+4. Plug into dedicated power socket — do not use extension cords.
+5. Power on and follow on-screen setup wizard.
+6. Run 3 test cycles before serving customers.
+
+Post-Installation Checklist:
+- Register machine serial number at saivending.com/register within 7 days.
+- Schedule first maintenance visit within 30 days of installation.
+- Train at least 2 staff members on daily cleaning procedure.
+
+Serial Number Location:
+Found on a sticker on the back panel, format: SV-XXXX-YYYY.
