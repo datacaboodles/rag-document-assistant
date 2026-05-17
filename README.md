@@ -37,3 +37,6 @@ streamlit run app.py
 ## Built for
 Internal use at Sai Vending Services to allow staff to get 
 instant answers from operational documents without manual searching.
+
+## Live Demo
+[saivendingassistant.streamlit.app](https://saivendingassistant.streamlit.app)
