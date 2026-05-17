@@ -43,7 +43,7 @@ def split_into_chunks(documents, chunk_size=100, overlap=20):
 @st.cache_resource
 def build_index():
     model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-    documents = load_documents("docs")
+    documents = load_documents(".")
     chunks = split_into_chunks(documents)
     embeddings = np.array(
         model.encode([c["text"] for c in chunks])
